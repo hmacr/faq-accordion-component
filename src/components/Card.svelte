@@ -1,5 +1,5 @@
 <script lang="ts">
-	<!-- import ArrowDownIcon from "../assets/icon-arrow-down.svg"; -->
+	import ArrowDownIcon from "../assets/icon-arrow-down.svg";
   	import DesktopImage from "./DesktopImage.svelte";
   	import MobileImage from "./MobileImage.svelte";
 	import faq_json from "../assets/faq.json";
